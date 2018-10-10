@@ -1,5 +1,3 @@
-127.0.0.1	localhost
-
 255.255.255.255 pagead2.googlesyndication.com
 255.255.255.255 googleads.g.doubleclick.net
 255.255.255.255 ad.adriver.ru
@@ -13,4 +11,9 @@
 255.255.255.255 yt3.ggpht.com
 255.255.255.255 pagead2.googlesyndication.com
 
-
+255.255.255.255 s.ytimg.com
+255.255.255.255 i1.ytimg.com
+255.255.255.255 i9.ytimg.com
+255.255.255.255 securepubads.g.doubleclick.net
+255.255.255.255 tpc.googlesyndication.com
+255.255.255.255 static.doubleclick.net
