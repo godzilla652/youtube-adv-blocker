@@ -1,0 +1,29 @@
+{
+	"manifest_version": 2,
+
+	"name":"youtube-adv-blocker",
+	"description":"blocks pop-up adv",
+	"version":"1.0",
+
+
+
+	"content_scripts": [
+		{
+			"matches": ["https://www.youtube.com/*"],
+			"js": ["content.js"]
+		}
+	],
+
+	"browser_action": {
+		"default_icon": "1024px-Youtube_icon.png",
+		"default_title": ""
+	},
+
+
+	"icons" : {
+			"16" : "1024px-Youtube_icon.png",
+			"24" : "1024px-Youtube_icon.png",
+			"32" : "1024px-Youtube_icon.png"
+		}
+
+}
