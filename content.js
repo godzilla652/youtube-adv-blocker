@@ -22,8 +22,14 @@ function check(){
 
 	temp = document.querySelector("div[class='annotation annotation-type-custom iv-promo']")
 	if(temp){
-		console.log(temp)
 		temp.parentNode.removeChild(temp)
 		temp = null
 	}
+
+	temp = document.querySelector("div[class='annotation annotation-type-custom iv-branding']")
+	if(temp){
+		temp.parentNode.removeChild(temp)
+		temp = null
+	}
+
 }
