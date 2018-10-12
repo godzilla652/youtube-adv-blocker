@@ -6,6 +6,8 @@
 255.255.255.255 www.google–analytics.com
 255.255.255.255 ssl.google–analytics.com
 255.255.255.255 cdn.adbetnet.com
+255.255.255.255 n6.cdn.adbetnet.com
+255.255.255.255 d1.cdn.adbetnet.com
 255.255.255.255 www.googleadservices.com
 255.255.255.255 i.cackle.me
 255.255.255.255 rg.yottos.com
@@ -13,7 +15,6 @@
 255.255.255.255 pagead2.googlesyndication.com
 
 # 255.255.255.255 i.ytimg.com
-# this one up holds shortcuts
 
 255.255.255.255 i1.ytimg.com
 255.255.255.255 i9.ytimg.com
@@ -23,5 +24,4 @@
 
 
 255.255.255.255 yt3.ggpht.com
-
 
