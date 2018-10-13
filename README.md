@@ -1,1 +1,1 @@
-# To do the second thing you have to copy data from hosts-file to hosts file on your computer.
+# Extension for google chrome, which removes blocks from player's screen. It contains hosts file with blocked advertising servers
