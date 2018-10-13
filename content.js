@@ -15,7 +15,8 @@ let advs = [
 "div[class='ytp-chrome-top ytp-share-button-visible']",
 "div[class='ytp-ce-element ytp-ce-channel ytp-ce-channel-this ytp-ce-bottom-left-quad ytp-ce-size-1280 ytp-ce-element-show']",
 "div[class='ytp-ce-element ytp-ce-video ytp-ce-bottom-left-quad ytp-ce-size-1280 ytp-ce-element-show']",
-"div[class='ytp-ce-element ytp-ce-video ytp-ce-bottom-right-quad ytp-ce-size-1280 ytp-ce-element-show']"
+"div[class='ytp-ce-element ytp-ce-video ytp-ce-bottom-right-quad ytp-ce-size-1280 ytp-ce-element-show']",
+"div[class='ytp-ce-element ytp-ce-playlist ytp-ce-bottom-left-quad ytp-ce-size-1280 ytp-ce-element-show']"
 ]
 
 //skip button class
